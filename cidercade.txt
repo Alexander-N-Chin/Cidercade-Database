@@ -1,0 +1,8 @@
+Pac-Man,  20003892,  ANC, 2301, $575.25
+Frogger, 93022440, NRI, 7250, $1812.50
+Space Inaders,  229993,  JBE, 2003, $500.75
+Beat Saber,  2222938,  ANC, 222222, $55555.50
+Mario Cart 8,  76322,  FDG, 9854, $2463.50
+Centipede, 5550000, DKV, 50, $12.50
+Mousetrap, 895230, WJS, 12, $3.00
+Defender, 750245000, LEH, 100, $25.00
