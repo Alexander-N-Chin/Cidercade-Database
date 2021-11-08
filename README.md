@@ -134,11 +134,11 @@ Details:
 
 • Edit a record: With a given game name, the program will update the record and confirm the change by displaying the new record on the screen. The following items can be edited:
 
-1. High score
+  1. High score
 
-2. Initials
+  2. Initials
 
-3. Number of plays
+  3. Number of plays
 
 ▪ If number of plays is edited, the revenue should be recalculated
 
