@@ -2,6 +2,7 @@
 The Cidercade Database takes an input file, creates a binary search tree with the record data, and executes five commands (insert, search, edit, remove, traverse) based on an inputted batch commands file. 
 (Academic project from Jason Smith's Computer Science II Class)
 
+****************************************************************************************************************************************************************
 
 Project Description:
 
@@ -17,6 +18,7 @@ on all of their games. They have hired you to build this system with a simple in
 
 and search the data. 
 
+****************************************************************************************************************************************************************
 
 Class Details:
 
@@ -96,6 +98,8 @@ o Overloaded less than operator (<)
 
 o Overloaded greater than operator (>)
 
+****************************************************************************************************************************************************************
+
 User Interface:
 
 • There will be 2 input files
@@ -105,6 +109,8 @@ o Prompt the user for the name of the file containing the database first
 o Prompt the user for the name of the file containing batch commands
 
 • Display all output to the console
+
+****************************************************************************************************************************************************************
 
 Details:
 
@@ -144,6 +150,8 @@ Details:
 
 • You can expect all input to be valid.
 
+****************************************************************************************************************************************************************
+
 Database Format:
 
 • Each record will be on a separate line in the file 
@@ -163,6 +171,8 @@ o Each field is separated with a comma and a space
 • <plays> - 1-4 digits
 
 • <revenue> - <1-4 digits><decimal><2 digits>
+  
+****************************************************************************************************************************************************************
 
 Batch Command File: 
 
@@ -213,6 +223,8 @@ o Sort records
 ▪ 5 <asc/des>
   
 ▪ A single word will follow the value: asc or des
+  
+****************************************************************************************************************************************************************
   
 Output: 
   
