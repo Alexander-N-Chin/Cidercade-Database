@@ -238,7 +238,7 @@ Output:
   
 o RECORD ADDED
   
-  Name: <name>
+  Name: /<name>
   
   High Score: <high_score>
   
@@ -250,7 +250,7 @@ o RECORD ADDED
   
 • Search for a record
   
-o <name> FOUND or <name> NOT FOUND
+o name FOUND or <name> NOT FOUND
   
 o If found
   
