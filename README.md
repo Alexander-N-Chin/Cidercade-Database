@@ -238,35 +238,35 @@ Output:
   
 o RECORD ADDED
   
-  Name: /<name>
+  Name: name
   
-  High Score: <high_score>
+  High Score: high_score
   
-  Initials: <initials>
+  Initials: initials
   
-  Plays: <plays>
+  Plays: plays
   
-  Revenue: $<value> - formatted to 2 decimal places
+  Revenue: $value - formatted to 2 decimal places
   
 • Search for a record
   
-o name FOUND or <name> NOT FOUND
+o name FOUND or name NOT FOUND
   
 o If found
   
-▪ High Score: <high_score>
+▪ High Score: high_score
   
-  Initials: <initials>
+  Initials: initials
 
-  Plays: <plays>
+  Plays: plays
 
-  Revenue: $<value> - formatted to 2 decimal places
+  Revenue: $value - formatted to 2 decimal places
   
 • Edit a record
   
-o <name> UPDATED
+o name UPDATED
   
-o UPDATE TO <field> - VALUE <value>
+o UPDATE TO field - VALUE value
   
 ▪ Fields: 
   
@@ -276,27 +276,27 @@ o UPDATE TO <field> - VALUE <value>
   
 • plays
   
-o High Score: <high_score>
+o High Score: high_score
   
-  Initials: <initials>
+  Initials: initials
   
-  Plays: <plays>
+  Plays: plays
   
-  Revenue: $<value> - formatted to 2 decimal places
+  Revenue: $value - formatted to 2 decimal places
   
 • Delete a record
   
 o RECORD DELETED
   
-  Name: <name>
+  Name: name
   
-  High Score: <high_score>
+  High Score: high_score
   
-  Initials: <initials>
+  Initials: initials
   
-  Plays: <plays>
+  Plays: plays
   
-  Revenue: $<value> - formatted to 2 decimal places
+  Revenue: $value - formatted to 2 decimal places
   
 • Sort records
   
@@ -304,7 +304,7 @@ o RECORDS SORTED <ASCENDING/DESCENDING>
   
 o Display all records (one per line) in the proper order
   
-o <name>, <high_score>, <initials>, <plays>, $<revenue><newline>
+o name, high_score, initials, plays, $revenue newline
   
 • At the end of the program, write the database to a file
   
@@ -314,4 +314,4 @@ o Write the tree to the file using a breadth-first traversal
   
 o Record format
   
-  ▪ <name>, <high_score>, <initials>, <plays>, $<revenue><newline>
+  ▪ name, high_score, initials, plays, $revenue newline
