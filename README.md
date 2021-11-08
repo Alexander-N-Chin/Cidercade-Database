@@ -188,41 +188,41 @@ o There is a single space between fields.
   
 o Add a record
   
-▪ 1 ”name” high_score initials plays $revenue
+  ▪ 1 ”name” high_score initials plays $revenue
   
 o Search for a record
   
-▪ 2 <search term>
-  
-▪ Search term may contain spaces
+  ▪ 2 <search term>
+
+  ▪ Search term may contain spaces
   
 o Edit a record
   
-▪ 3 “name” <field number> <new value>
-  
-▪ <field number>
-  
-• 1 = high score
-  
-• 2 = initials
-  
-• 3 = number of plays
-  
-▪ The double quotes surround the name so that you know where the end of the name is
+  ▪ 3 “name” <field number> <new value>
+
+  ▪ <field number>
+
+    • 1 = high score
+
+    • 2 = initials
+
+    • 3 = number of plays
+
+  ▪ The double quotes surround the name so that you know where the end of the name is
   
 o Delete a record
   
-▪ 4 <name>
+  ▪ 4 <name>
   
-▪ Name may contain spaces
-  
-▪ Double quotes are not necessary here since there is no data after the name
-  
+  ▪ Name may contain spaces
+
+  ▪ Double quotes are not necessary here since there is no data after the name
+
 o Sort records
   
-▪ 5 <asc/des>
-  
-▪ A single word will follow the value: asc or des
+  ▪ 5 <asc/des>
+
+  ▪ A single word will follow the value: asc or des
   
 ****************************************************************************************************************************************************************
   
