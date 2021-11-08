@@ -158,19 +158,19 @@ Database Format:
 
 • Format
 
-o <name>, <high_score>, <initials>, <plays>, $<revenue><newline>
+o name, high_score, initials, plays, $revenue newline
 
 o Each field is separated with a comma and a space
 
-• <name> - may be multiple words
+• <name - may be multiple words
 
-• <high_score> - 1-9 digits
+• high_score - 1-9 digits
 
-• <initials> - 3 characters – no white space
+• initials - 3 characters – no white space
 
-• <plays> - 1-4 digits
+• plays - 1-4 digits
 
-• <revenue> - <1-4 digits><decimal><2 digits>
+• revenue - 1-4 digits decimal 2 digits
   
 ****************************************************************************************************************************************************************
 
@@ -192,15 +192,15 @@ o Add a record
   
 o Search for a record
   
-  ▪ 2 <search term>
+  ▪ 2 search term
 
   ▪ Search term may contain spaces
   
 o Edit a record
   
-  ▪ 3 “name” <field number> <new value>
+  ▪ 3 “name” field number new value
 
-  ▪ <field number>
+  ▪ field number
 
     • 1 = high score
 
@@ -212,7 +212,7 @@ o Edit a record
   
 o Delete a record
   
-  ▪ 4 <name>
+  ▪ 4 name
   
   ▪ Name may contain spaces
 
